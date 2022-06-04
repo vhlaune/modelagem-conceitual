@@ -7,3 +7,5 @@
 <p><strong>Construção do modelo conceitual:</strong></p>
 
 ![modelo-conceitual](https://user-images.githubusercontent.com/103287764/172018009-10c2f1c9-07fa-474f-a82e-6814104c699e.png)
+
+<p>Modelo conceitual criado na https://app.creately.com/</p>
